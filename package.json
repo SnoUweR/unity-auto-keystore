@@ -1,0 +1,8 @@
+{
+    "name": "ru.snouwer.auto-keystore",
+    "author": "SnoUweR",
+    "displayName": "Auto Keystore",
+    "description": "This utility automatically sets the Android keystore data (alias name, alias password, keystore password) after project reopening.",
+    "version": "1.0.0",
+    "dependencies": {}
+}
